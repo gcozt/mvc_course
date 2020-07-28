@@ -1,0 +1,6 @@
+C:\Users\Greg\source\repos\gcozt\mvc_course\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\Users\Greg\source\repos\gcozt\mvc_course\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\Users\Greg\source\repos\gcozt\mvc_course\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\gcozt\mvc_course\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\gcozt\mvc_course\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\Users\Greg\source\repos\gcozt\mvc_course\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
